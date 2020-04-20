@@ -3,7 +3,6 @@ spring:
     url: jdbc:mysql://140.203.155.24:8080/rentcloud?useUnicode=true&characterEncoding=utf8&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=UTC&createDatabaseIfNotExist=true
     username: root
     password: graphofthings
-    driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:
       naming:
